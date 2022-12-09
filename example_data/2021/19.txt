@@ -1,0 +1,1 @@
+{"input": "--- scanner 0 ---\n0,2\n4,1\n3,3\n\n--- scanner 1 ---\n-1,-1\n-5,0\n-2,1\n", "output": "...B..\nB....S\n....B.\nS....."}

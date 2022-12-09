@@ -1,0 +1,1 @@
+{"input": "F4 .  .  .  .  .\nF3 .  .  .  LG .\nF2 .  HG .  .  .\nF1 E  .  HM .  LM", "output": "F4 .  .  .  .  .\nF3 E  HG HM LG .\nF2 .  .  .  .  .\nF1 .  .  .  .  LM\n"}

@@ -1,0 +1,23 @@
+Here is an example input and output:
+
+Input:
+```
+F10
+N3
+F7
+R90
+F11
+```
+
+Output:
+```
+25
+```
+
+Here is the JSON representation of this example:
+```
+{
+    "input": "F10\nN3\nF7\nR90\nF11",
+    "output": 25
+}
+```

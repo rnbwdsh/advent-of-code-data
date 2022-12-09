@@ -1,0 +1,9 @@
+Here is an example with the provided input data:
+```
+{
+    "input": "Disc #1 has 5 positions; at time=0, it is at position 4.\nDisc #2 has 2 positions; at time=0, it is at position 1.",
+    "output": 5
+}
+```
+
+In this example, the input describes two discs. The first disc has 5 positions and is initially at position 4. The second disc has 2 positions and is initially at position 1. The first time that the capsule will fall through the discs and come out of the machine is when the button is pressed at time=5. At this time, the first disc will have ticked forward 5+1=6 times and the second disc will have ticked forward 5+2=7 times, placing both discs at position 0.

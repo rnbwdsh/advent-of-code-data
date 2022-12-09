@@ -1,0 +1,1 @@
+{"input": "abcx\nabcy\nabcz\n\nabc\na\nb\nc\nab\nac\na\na\na\na\nb\n", "output": 11}

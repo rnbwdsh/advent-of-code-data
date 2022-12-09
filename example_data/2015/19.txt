@@ -1,0 +1,4 @@
+{
+  "input": "H2O",
+  "output": "OO2O"
+}

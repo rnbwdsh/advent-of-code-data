@@ -1,0 +1,1 @@
+{"input":"\"\"\n\"abc\"\n\"aaa\\\"aaa\"\n\"\\x27\"","output":12}

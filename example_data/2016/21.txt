@@ -1,0 +1,21 @@
+Here is an example input and output:
+
+```
+{
+    "input": "abcde",
+    "output": "decab"
+}
+```
+
+This example shows how to apply the series of operations provided in the prompt to scramble the input string `abcde` and produce the scrambled output string `decab`. Note that in this example, the input string `abcde` is right-trimmed before the operations are applied.
+
+Here are the individual operations applied to `abcde` in this example, along with a brief description of what each operation does:
+
+1. `swap position 4 with position 0`: This operation swaps the letters at indexes 4 and 0 (counting from 0), which in this case swaps the first and last letters of the string, producing the input `ebcda` for the next step.
+2. `swap letter d with letter b`: This operation swaps the letters `d` and `b` (regardless of their position in the string), which in this case swaps the positions of `d` and `b`, producing the input `edcba` for the next step.
+3. `reverse positions 0 through 4`: This operation reverses the span of letters at indexes 0 through 4 (including the letters at indexes 0 and 4), which in this case reverses the entire string, producing the input `abcde` for the next step.
+4. `rotate left 1 step`: This operation shifts all letters left one position, causing the first letter to wrap to the end of the string, producing the input `bcdea` for the next step.
+5. `move position 1 to position 4`: This operation removes the letter at position 1 (`c`), then inserts it at position 4 (the end of the string), producing the input `bdeac` for the next step.
+6. `move position 3 to position 0`: This operation removes the letter at position 3 (`a`), then inserts it at position 0 (the front of the string), producing the input `abdec` for the next step.
+7. `rotate based on position of letter b`: This operation finds the index of letter `b` (1), then rotates the string right once plus a number of times equal to that index (2), producing the input `ecabd` for the next step.
+8. `rotate based on position of letter d`: This operation finds the index of letter `d` (4), then rotates the string right once, plus a number of times equal to that index, plus an additional time because the index was at least 4, for a total of 6 right rotations. This produces the final scrambled output string `decab`.

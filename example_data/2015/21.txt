@@ -1,0 +1,1 @@
+{"input": "8 hit points, 5 damage, and 5 armor, and that the boss has 12 hit points, 7 damage, and 2 armor:", "output": "The player wins!"}

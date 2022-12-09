@@ -1,0 +1,4 @@
+{
+    "input": "[1,2,3] and {\"a\":2,\"b\":4} both have a sum of 6.",
+    "output": 6
+}

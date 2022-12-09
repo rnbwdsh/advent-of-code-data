@@ -1,0 +1,10 @@
+Here is a JSON object containing an example input and output for the prompt above:
+```
+{
+    "input": "gtri 3 1 3",
+    "output": 1
+}
+```
+In this example, the opcode `gtri` is being used, which stands for "greater-than register/immediate." This opcode takes two inputs and one output, in the following order: register A, value B, and register C. In this case, the values of the input registers are 3 and 1, and the output is being stored in register 3.
+
+Since the value of register A (3) is greater than the value of the immediate value B (1), the output of this instruction will be 1, which will be stored in register 3.

@@ -1,0 +1,10 @@
+Here is an example for the input and output:
+
+```
+{
+    "input": "London to Dublin = 464\nLondon to Belfast = 518\nDublin to Belfast = 141",
+    "output": 605
+}
+```
+
+In this example, the input lists the distances between three locations: London, Dublin, and Belfast. The shortest possible route is `London -> Dublin -> Belfast`, which has a total distance of 605.

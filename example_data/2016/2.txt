@@ -1,0 +1,4 @@
+{
+    "input": "ULL\nRRDDD\nLURDL\nUUUUD",
+    "output": 1985
+}

@@ -1,0 +1,9 @@
+Here is an example input and output:
+```
+{
+    "input": "5-8\n0-2\n4-7",
+    "output": 3
+}
+```
+
+The input is a string that contains the blocked IP ranges. The output is a number that represents the lowest-valued IP that is not blocked. In this example, the blocked IP ranges are `5-8`, `0-2`, and `4-7`, so the only unblocked IP is 3.

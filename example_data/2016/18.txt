@@ -1,0 +1,10 @@
+Here is an example of input data and the corresponding output:
+
+```
+{
+    "input": ".^^.^.^^^^",
+    "output": 38
+}
+```
+
+This is the example given in the prompt where the input is a 10x10 grid of tiles and the output is the number of safe tiles in the grid after 40 rows.

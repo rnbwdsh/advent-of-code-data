@@ -1,0 +1,8 @@
+The input is "3113322113" and the output is "312211". Here is the json object:
+
+```
+{
+    "input": "3113322113",
+    "output": "312211"
+}
+```

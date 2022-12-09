@@ -1,0 +1,1 @@
+{"input":"ab |\ncdfeb fcadb cdfeb cdbaf","output":"acedgfb cdfbe gcdfa fbcad dab cefabd cdfgeb eafb cagedb ab |\ncdfeb fcadb cdfeb cdbaf"}

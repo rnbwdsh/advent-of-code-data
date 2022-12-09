@@ -1,0 +1,6 @@
+```
+{
+  "input": "inc a\njio a, +2\ntpl a\ninc a\n",
+  "output": 2
+}
+```

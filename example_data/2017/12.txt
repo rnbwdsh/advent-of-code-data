@@ -1,0 +1,10 @@
+Here is an example input and output:
+
+```
+{
+    "input": "0 <-> 2\n1 <-> 1\n2 <-> 0, 3, 4\n3 <-> 2, 4\n4 <-> 2, 3, 6\n5 <-> 6\n6 <-> 4, 5",
+    "output": 6
+}
+```
+
+In this example, the input is a string containing several lines, each of which describes a program and its connections to other programs. The output is the number of programs that are part of the group that contains program 0. This group includes program 0 itself, as well as programs 2, 3, 4, 5, and 6, since these programs are all connected to program 0 through a series of pipes. Program 1 is not part of this group because it is only connected to itself.

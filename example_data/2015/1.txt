@@ -1,0 +1,10 @@
+Here is the example you requested:
+
+```
+{
+    "input": "))(((((",
+    "output": 3
+}
+```
+
+Note that this example is based on the information provided in the prompt. You may need to modify it slightly to fit the specific requirements of your assignment.

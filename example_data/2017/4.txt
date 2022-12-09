@@ -1,0 +1,4 @@
+{
+  "input": "aa bb cc dd ee",
+  "output": "valid"
+}

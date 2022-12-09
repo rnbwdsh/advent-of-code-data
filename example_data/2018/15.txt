@@ -1,0 +1,1 @@
+{"input": "Right-trim the input and output.\n", "output": "Right-trim the input and output."}

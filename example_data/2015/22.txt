@@ -1,0 +1,1 @@
+{"input": "Recharge provides 101 mana; its timer is now 2.", "output": 2}

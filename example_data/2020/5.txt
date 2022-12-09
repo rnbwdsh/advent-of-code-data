@@ -1,0 +1,8 @@
+The output of the program should be the highest seat ID on any of the boarding passes. Here is an example of the input and output:
+
+```
+{
+    "input": "BFFFBBFRRR\nFFFBBBFRRR\nBBFFBBFRLL",
+    "output": 820
+}
+```

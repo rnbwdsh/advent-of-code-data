@@ -1,0 +1,4 @@
+{
+"input": "dc-end\nHN-start\nstart-kj\ndc-start\ndc-HN\nLN-dc\nHN-end\nkj-sa\nkj-HN\nkj-dc",
+"output": 19
+}

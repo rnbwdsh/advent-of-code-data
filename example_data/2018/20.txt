@@ -1,0 +1,1 @@
+{"input": "^WNE$", "output": "WNE"}

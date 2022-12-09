@@ -1,0 +1,10 @@
+Here is an example:
+
+```
+{
+  "input": "ihgpwlah",
+  "output": "DDRRRD"
+}
+```
+
+This input produces the shortest path to the vault, which is `DDRRRD`.

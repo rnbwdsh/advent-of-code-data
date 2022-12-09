@@ -1,0 +1,10 @@
+Here is an example of input data and the corresponding output, formatted as a JSON object:
+
+```
+{
+  "input": "x AND y -> z",
+  "output": "AND"
+}
+```
+
+In this example, the input is a string that describes a logical gate that takes two inputs and produces an output. The output of this example is the string "AND", which is the type of gate that is specified in the input string.

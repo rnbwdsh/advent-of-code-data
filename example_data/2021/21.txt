@@ -1,0 +1,4 @@
+{
+  "input": "Player 1 starting position: 4\nPlayer 2 starting position: 8",
+  "output": 739785
+}

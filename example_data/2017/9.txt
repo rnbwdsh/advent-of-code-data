@@ -1,0 +1,16 @@
+The input and output for this problem is as follows:
+
+```
+{<{},{},{{}}>}, 1 group (which itself contains garbage).
+```
+
+The corresponding output for this input is `1`.
+
+Here is the example as a JSON object:
+
+```
+{
+    "input": "{<{},{},{{}}>}",
+    "output": 1
+}
+```

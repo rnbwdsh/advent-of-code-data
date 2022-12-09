@@ -1,0 +1,12 @@
+Here is a valid example for the input data and output specified in the question:
+
+```
+{
+    "input": "forward 5\ndown 5\nforward 8\nup 3\ndown 8\nforward 2\n",
+    "output": 150
+}
+```
+
+In this example, the input is a string that represents a series of commands for the submarine to execute. The output is the result of multiplying the final horizontal position by the final depth, as instructed in the prompt.
+
+In this case, the submarine starts at a horizontal position of 0 and a depth of 0. When the submarine executes the series of commands specified in the input string, it ends up at a horizontal position of 15 and a depth of 10, resulting in an output of 150 when the horizontal position and depth are multiplied together.

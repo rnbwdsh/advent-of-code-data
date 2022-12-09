@@ -1,0 +1,1 @@
+{"input": "ababbb\nbababa\nabbbab\naaabbb\naaaabbb", "output": 2}

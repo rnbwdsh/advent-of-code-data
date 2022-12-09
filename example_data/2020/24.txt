@@ -1,0 +1,4 @@
+{
+    "input": "nwnwneseeswswnenewneswwnewseswneseene",
+    "output": 2
+}

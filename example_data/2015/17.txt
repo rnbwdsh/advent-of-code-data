@@ -1,0 +1,10 @@
+Here is an example of input data and the corresponding output:
+
+```
+{
+    "input": "20 15 10 5 5\n25",
+    "output": 4
+}
+```
+
+The input consists of two lines. The first line contains a list of integers representing the sizes of the containers, and the second line contains an integer representing the amount of eggnog to be stored. In this example, the sizes of the containers are `20`, `15`, `10`, `5`, and `5`, and the amount of eggnog is `25`. The output is the number of different combinations of containers that can exactly fit all of the eggnog, which is `4` in this case.

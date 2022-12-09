@@ -1,0 +1,12 @@
+Here is the example:
+
+```
+{
+  "input": "5 10 25",
+  "output": 0
+}
+```
+
+Explanation:
+
+The input is "5 10 25". The sum of any two sides of a triangle must be greater than the remaining side, so the triangle with sides of length 5, 10, and 25 is not possible. Therefore, the output is 0.

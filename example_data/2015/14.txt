@@ -1,0 +1,10 @@
+Here is an example of input data and the corresponding output for the given assignment:
+
+```
+{
+    "input": "Comet can fly 14 km/s for 10 seconds, but then must rest for 127 seconds.\nDancer can fly 16 km/s for 11 seconds, but then must rest for 162 seconds.",
+    "output": 1120
+}
+```
+
+The input is the description of the two reindeer, Comet and Dancer, and their respective speeds and rest periods. The output is the distance traveled by the winning reindeer after 2503 seconds, which in this case is 1120 km.

@@ -1,0 +1,10 @@
+Here is an example of the input and output for this problem:
+
+```
+{
+  "input": "abba[mnop]qrst\nabcd[bddb]xyyx\naaaa[qwer]tyui\nioxxoj[asdfgh]zxcvbn",
+  "output": 2
+}
+```
+
+In this example, the input is a string containing four lines representing four IP addresses. The first IP address, `abba[mnop]qrst`, supports TLS because it contains an ABBA sequence (`abba`) outside of any square brackets. The second IP address, `abcd[bddb]xyyx`, does not support TLS because it contains an ABBA sequence (`bddb`) within square brackets. The third IP address, `aaaa[qwer]tyui`, does not support TLS because it contains an invalid ABBA sequence (`aaaa`). The fourth IP address, `ioxxoj[asdfgh]zxcvbn`, supports TLS because it contains an ABBA sequence (`oxxo`) outside of square brackets. Therefore, the correct output is `2`, indicating that two of the four IP addresses in the input support TLS.

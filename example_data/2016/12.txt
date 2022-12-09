@@ -1,0 +1,1 @@
+{"input": "cpy 41 a\ninc a\ninc a\ndec a\njnz a 2\ndec a", "output": "42"}

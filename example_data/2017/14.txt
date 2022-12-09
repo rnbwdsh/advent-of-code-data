@@ -1,0 +1,4 @@
+{
+    "input": "flqrgnkx-0",
+    "output": 8108
+}

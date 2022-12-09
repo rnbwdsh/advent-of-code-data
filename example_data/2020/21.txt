@@ -1,0 +1,10 @@
+Here is the example input and output for this problem:
+
+```
+{
+    "input": "mxmxvkd kfcds sqjhc nhms (contains dairy, fish)\ntrh fvjkl sbzzf mxmxvkd (contains dairy)\nsqjhc fvjkl (contains soy)\nsqjhc mxmxvkd sbzzf (contains fish)",
+    "output": 5
+}
+```
+
+In this example, the ingredients that cannot contain any allergens are `kfcds`, `nhms`, `sbzzf`, and `trh`. These ingredients appear 5 times in total in the input.

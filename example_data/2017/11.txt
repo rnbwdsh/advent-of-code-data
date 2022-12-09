@@ -1,0 +1,1 @@
+{"input": "ne,ne,ne", "output": 3}
